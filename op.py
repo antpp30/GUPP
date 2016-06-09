@@ -40,3 +40,4 @@ if __name__ == "__main__":
     print("Pi is roughly %f" % (4.0 * count / n))
 
     sc.stop()
+    print "GUPP"
